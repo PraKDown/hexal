@@ -420,6 +420,10 @@ footer section.form form textarea {
   margin-top: 16px;
   border: none;
   resize: none;
+  color: #bebebe;
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+  padding: 12px 0 0 15px;
 }
 
 footer section.form form textarea::placeholder {
@@ -427,7 +431,6 @@ footer section.form form textarea::placeholder {
   font-family: 'Lato', sans-serif;
   font-size: 12px;
   font-size-text-align: justify;
-  padding: 12px 0 0 15px;
 }
 
 footer section.form div.info {
